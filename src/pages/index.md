@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Orlando Azure
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Orlando Azure
+subheading: Lean and grow your cloud skills
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Orlando Azure Meetup
+  description: >-
+    We are a community of people interested in Microsoft Azure. Whether you work
+    with Azure or just looking to get started, you are welcomed here!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Orlando Azure meetup happens every month covering Azure concepts and
+  anxiliary concepts. We regroup every month to learn from each other and grow
+  together as a community while we expand our professional network. Anyone is
+  welcome to join us!
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +66,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
