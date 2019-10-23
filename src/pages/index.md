@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Orlando Azure
-image: /img/home-jumbotron.jpg
+image: /img/cloud.jpeg
 heading: Orlando Azure
 subheading: Lean and grow your cloud skills
 mainpitch:
